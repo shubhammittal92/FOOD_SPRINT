@@ -23,3 +23,8 @@ This web application allows users to log in, sign up, browse a food menu, and co
 
 ![image](https://github.com/user-attachments/assets/7d15160e-bf5b-40aa-b184-e46b1875e6cb)
 
+
+
+
+![image](https://github.com/user-attachments/assets/bcd07bd8-a4b5-4506-9a40-4a10c6508d03)
+
