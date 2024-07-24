@@ -15,3 +15,11 @@ This web application allows users to log in, sign up, browse a food menu, and co
 
 =>Data fetched from end point made for the data present in MongoDB.
 ![image](https://github.com/user-attachments/assets/0540fe38-eefb-4d29-95c0-eb28fddc072f)
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7d15160e-bf5b-40aa-b184-e46b1875e6cb)
+
